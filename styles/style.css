@@ -1,0 +1,122 @@
+body {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+
+  font-family: "Inter", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.header {
+  position: relative;
+
+  display: flex;
+  flex-direction: column;
+
+  padding: 30px 80px 0px;
+
+  background-color: #ffffff;
+  background-image: url("../images/background_header.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  /*
+  Estos valores, los estoy tomando de la página 6 del brief de la parte donde dice:
+
+  Altura mínima del bloque: 720px, altura máxima del bloque: 800px.
+
+  Puede ser error mío de interpretación, pero creo que aquí se definen explícitamente altura mínima y máxima
+  */
+  height: 100vh;
+  min-height: 720px;
+  max-height: 800px;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-right: -54px;
+}
+
+.logo {
+  width: 105px;
+  height: 39px;
+
+  position: relative;
+  right: 50px;
+}
+
+.nav-links {
+  font-weight: 500;
+
+  display: flex;
+  column-gap: 20px;
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.header-image {
+  width: 646px;
+  height: 568px;
+
+  position: absolute;
+  right: 5px;
+  top: 124px;
+}
+
+.header-title {
+  font-weight: 500;
+  font-size: 58px;
+  line-height: 72px;
+  letter-spacing: -1px;
+
+  padding-top: 183px;
+  margin-bottom: 0;
+  max-width: 709px;
+}
+
+.span-accent {
+  display: block;
+
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 58px;
+  line-height: 72px;
+  color: #ff976b;
+}
+
+.header-description {
+  font-size: 20px;
+  line-height: 30px;
+
+  margin-top: 0px;
+  padding-top: 28px;
+  max-width: 683px;
+}
+
+.header-info {
+  margin-top: auto;
+  margin-bottom: 40px;
+
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.info-text {
+  font-weight: 500;
+  color: #6f6f6f;
+  margin: 0;
+}
