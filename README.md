@@ -16,4 +16,4 @@ La página cuenta con una cabecera informativa, una barra de navegación con enl
 
 ## Planes de mejora
 
-Me gustaría poder hacer responsivo el sitio, que es pueda ajustar a móviles y a pantallas ultrawide
+Me gustaría poder hacer responsivo el sitio, que es pueda ajustar a móviles y a pantallas ultrawide.
