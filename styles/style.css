@@ -2,48 +2,6 @@
 @import url("./footer.css");
 @import url("./content.css");
 
-@font-face {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 500;
-  font-display: swap;
-  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Noto Serif";
-  font-style: italic;
-  font-weight: 400;
-  font-stretch: 100%;
-  font-display: swap;
-  src: url("../fonts/NotoSerif-Italic-VariableFont_wdth,wght.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: 400;
-  font-stretch: 100%;
-  font-display: swap;
-  src: url("../fonts/NotoSerif-VariableFont_wdth,wght.woff2") format("woff2");
-}
-
 body {
   min-width: 1100px;
   max-width: 1600px;
