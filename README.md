@@ -16,4 +16,4 @@ La página cuenta con una cabecera informativa, una barra de navegación con enl
 
 ## Planes de mejora
 
-En futuras versiones me gustaría completar la sección de reservas con un formulario funcional que valide los datos del usuario y confirme la solicitud de una mesa. También añadiría una sección de contacto más completa, enlaces a redes sociales y un diseño adaptable para mejorar la experiencia en pantallas móviles.
+Me gustaría poder hacer responsivo el sitio, que es pueda ajustar a móviles y a pantallas ultrawide
