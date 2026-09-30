@@ -7,7 +7,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url("../fonts/inter-normal.woff2") format("woff2");
+  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
 }
 
 @font-face {
@@ -15,7 +15,7 @@
   font-style: normal;
   font-weight: 500;
   font-display: swap;
-  src: url("../fonts/inter-normal.woff2") format("woff2");
+  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
 }
 
 @font-face {
@@ -23,7 +23,7 @@
   font-style: normal;
   font-weight: 700;
   font-display: swap;
-  src: url("../fonts/inter-normal.woff2") format("woff2");
+  src: url("../fonts/Inter-VariableFont_opsz,wght.woff2") format("woff2");
 }
 
 @font-face {
@@ -32,7 +32,7 @@
   font-weight: 400;
   font-stretch: 100%;
   font-display: swap;
-  src: url("../fonts/noto_serif-italic.woff2") format("woff2");
+  src: url("../fonts/NotoSerif-Italic-VariableFont_wdth,wght.woff2") format("woff2");
 }
 
 @font-face {
@@ -41,7 +41,7 @@
   font-weight: 400;
   font-stretch: 100%;
   font-display: swap;
-  src: url("../fonts/noto_serif-normal.woff2") format("woff2");
+  src: url("../fonts/NotoSerif-VariableFont_wdth,wght.woff2") format("woff2");
 }
 
 body {
